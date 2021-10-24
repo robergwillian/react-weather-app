@@ -1,4 +1,4 @@
-<img src="../weather-app/public/print.png">
+<img src="https://github.com/robergwillian/react-weather-app/blob/main/public/print.png">
 
 
 # Getting Started with Create React App
