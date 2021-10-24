@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root {
+    --red: #EB6F4C;
+    --main-dark: #343A40;
+}
+
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.App {
+    max-width:1440px;
+    margin: 0 auto;
+    height: 1vh;
+}
